@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<font color="green"> Some green text </font>
 <!--
 **HoangNguyen161201/HoangNguyen161201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
