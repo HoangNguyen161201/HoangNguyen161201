@@ -80,10 +80,9 @@ I am very passionate about programming, especially web development. I have been 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> 
 </a>
 
+#### Contact Info 🤙 &#128222;:
 
+&#128073; hoangdev161201@gmail.com
 
+&#128073; <a href="https://www.facebook.com/hoang.nguyenquang.395454/">Facebook</a>
 
-
-
-
-#### Contact Info:
