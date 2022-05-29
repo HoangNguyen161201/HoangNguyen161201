@@ -1,2 +1,2 @@
 Nguyen Quang Hoang
-# I'm fullstack web developer &#129305;
+# I'm fullstack web developer &#129305; &#127881;
