@@ -5,5 +5,13 @@ I am very passionate about programming, especially web development. I have been 
 
 #### Languages, libraries and tools that I use to program:
 <img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"/>
+<img width="50" height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg"/>
+
+
 
 #### Contact Info:
